@@ -9,6 +9,12 @@ const educations = [
   },
   { 
     id: 1,
+    time: 'FEB 2022 - AGO 2024',
+    title: 'Analista en Informática',
+    location: 'Universidad Argentina de la Empresa (UADE), Montserrat, BA.'
+  },
+  { 
+    id: 2,
     time: 'ENE 2011 - DEC 2021',
     title: 'Diploma Superior en Capacitación de Inglés',
     location: 'Brighton English Institute, Berazategui, BA.'
